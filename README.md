@@ -19,8 +19,6 @@ Esse foi um projeto desenvolvido por discentes do curso de *Engenharia da Comput
 
 [![527aed47dfafa](https://github.com/user-attachments/assets/c0f4c599-ed32-4708-b6b3-8b86a9852c13)](#hashxo-jogo-da-velha-tic-tac-toe)
 
-[![cachorro-com-febre-_2_](https://github.com/user-attachments/assets/90730a3e-68d8-423f-a419-95b36df38b5d)](#thermometerrock-termômetro-rudimentar)
-
 ## :dart: Objetivo
 
 Este projeto tem como objetivo implementar um sistema especialista para o Jogo da Velha (em cima do código fornecido pelo docente), capaz de tomar decisões estratégicas com base em regras pré-definidas. A proposta é desenvolver um jogador inteligente que analise o tabuleiro e execute jogadas seguindo uma hierarquia de regras, como bloquear o oponente, criar sequências vencedoras ou ocupar posições-chave, como o centro ou os cantos. A atividade visa aplicar conceitos de estruturas de dados e lógica de programação para criar um algoritmo eficiente que simule o comportamento de um jogador humano, garantindo vitórias ou empates sempre que possível. O trabalho será avaliado por meio da submissão do código e do repositório conforme as instruções fornecidas.
